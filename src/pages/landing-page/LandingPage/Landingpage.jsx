@@ -155,7 +155,7 @@ const Landingpage = () => {
         allowFullScreen
         title='Google Map'
         className="map"
-      ></iframe>
+></iframe>
         </div>
       </div>
      

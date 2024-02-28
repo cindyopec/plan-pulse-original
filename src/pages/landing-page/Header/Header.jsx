@@ -10,7 +10,7 @@ const Header = () => {
         <img src={logo} alt="logo" />
       </div>
       <div className="headertext">
-        <p className="home">HOME</p>
+        <p  className="home">HOME</p>
         <p>ABOUT</p>
         <p>FEATURES</p>
         <p>PRICING</p>
